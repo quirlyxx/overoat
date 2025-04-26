@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include "overcoat.h"
 
 Overcoat::Overcoat() : price(0.0) {
